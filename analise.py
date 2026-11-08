@@ -1,6 +1,6 @@
 """
 Análise de Vendas do E-commerce Brasileiro (Olist)
-Autor: Márcio Andrade
+Autor: Márcio Oliveira
 
 Etapas:
 1. Carregamento dos dados
