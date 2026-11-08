@@ -1,0 +1,6 @@
+# Dados brutos (baixar do Kaggle, ver README)
+dados/*.csv
+
+# Ambiente Python
+.venv/
+__pycache__/

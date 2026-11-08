@@ -65,6 +65,6 @@ Responder a perguntas de negócio a partir dos dados:
 
 ## 📫 Contato
 
-**Márcio Oliveira**
+**Márcio Andrade**
 - E-mail: mvsao.dev@icloud.com
 - GitHub: [MarciioSantos](https://github.com/MarciioSantos)
